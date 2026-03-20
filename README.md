@@ -18,3 +18,9 @@ Created in Python 3.9.0
     
 Peter Pittaway 2023
 University of Leeds
+
+
+
+In order to run this, you can create a conda environment from p3_env.yaml. 
+in your shell (like conda, or powershell) or vs code terminal, use: conda env create -f p3_env.yaml
+this will create a new environment with all the required packages, which will save you some time first setting up the system. 
