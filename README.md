@@ -23,4 +23,5 @@ University of Leeds
 
 In order to run this, you can create a conda environment from p3_env.yaml. 
 in your shell (like conda, or powershell) or vs code terminal, use: conda env create -f p3_env.yaml
+(after you have forked the repository into your own github, then git cloned the URl found unde the 'code' button in green 
 this will create a new environment with all the required packages, which will save you some time first setting up the system. 
